@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<h1
+  class="text-6xl font-helvetica text-center text-emerald-400"
+>
+  Expression
+  <br />
+  Evaluator
+</h1>
+`;
